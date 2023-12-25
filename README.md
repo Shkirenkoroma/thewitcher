@@ -1,5 +1,6 @@
-### Live-версия проекта доступна по ссылке https://shkirenkoroma.github.io/thewitcher/
-Верстка одностраничного сайта-превью для сериала "Ведьмак"
+#### Live-версия проекта доступна по ссылке: https://shkirenkoroma.github.io/thewitcher/
+
+Вёрстка одностраничного сайта-превью для сериала "Ведьмак"
 ![image](https://user-images.githubusercontent.com/61347452/228735279-95ac6906-d6c3-47a9-b8f6-12f25de21ccc.png)
 Подключены библиотеки для реализации слайдера и видео-трейлера
 ![image](https://user-images.githubusercontent.com/61347452/228735584-3a4b937c-7006-465b-a6ad-106c938dba54.png)
